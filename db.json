@@ -1,4 +1,13 @@
 {
+  "people":[
+    {"id":123,
+     "name":"Andrew"
+    }
+    ,
+    {"id":2,
+     "name":"Help"
+    }
+    ],
   "posts": [
     {
       "id": 1,
