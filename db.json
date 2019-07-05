@@ -13,6 +13,71 @@
       "title": "sample"
     }
   ],
+  "casefiles":[
+    {
+  "id": 16590,
+  "number": "41390",
+  "name": "100% Animal IV",
+  "officer": {
+    "id": 130070,
+    "name": "FirstName LastName"
+  },
+  "applicant": {
+    "id": 130070,
+    "name": "Organization Name"
+  },
+  "contact": {
+    "id": 130070,
+    "name": "FirstName LastName"
+  },
+  "submitter": {
+    "id": 130070,
+    "name": "FirstName LastName"
+  },
+  "account": {
+    "id": 130070,
+    "name": "Organization Name"
+  },
+  "caseFileStatus": {
+    "id": 5,
+    "english": "Amended",
+    "french": "En attente"
+  },
+  "phase": {
+    "id": 72,
+    "english": "Registration Phase",
+    "french": "Inscription"
+  },
+  "phaseStatus": {
+    "id": 72,
+    "internalenglish": "Recommended ",
+    "internalfrench": "Recommande ",
+    "externalenglish": "Under review ",
+    "externalfrench": "En revue "
+  },
+  "phaseAssignedTo": {
+    "id": 130070,
+    "name": "FirstName LastName"
+  },
+  "startDate": "2019-07-05",
+  "lastUpdated": "2019-07-05",
+  "isViewing": 0,
+  "attributes": [
+    {
+      "values": [
+        {
+          "english": "Low",
+          "id": 189,
+          "french": "Bas"
+        }
+      ],
+      "english": "Risk Level",
+      "id": 73,
+      "french": "Niveau de risque"
+    }
+  ]
+}]
+  
   "profile": {
     "name": "typicode"
   }
