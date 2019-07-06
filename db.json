@@ -3,17 +3,20 @@
     {"id":1,
      "name":"My Files",
      "icon":"",
-     "text":""
+     "text":"",
+     "to":""
     },
     {"id":2,
      "name":"Under Analysis",
      "icon":"",
-     "text":""
+     "text":"",
+     "to":""
     },
     {"id":3,
      "name":"Program Files",
      "icon":"",
-     "text":""
+     "text":"",
+     "to":""
     }
     ],
   "persons":[
