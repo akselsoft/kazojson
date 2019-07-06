@@ -4,6 +4,7 @@
      "name":"My Files",
      "icon":"assignment_ind",
      "text":"These are my files.",
+     "color":"success",
      "to":"/list2"
     },
     {"id":2,
@@ -22,6 +23,7 @@
      "name":"Company Account",
      "icon":"contacts",
      "text":"You last looked at this organization",
+     "color":"blue",
      "to":"/organization"
     },
     {"id":5,
