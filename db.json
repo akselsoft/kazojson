@@ -1,28 +1,6 @@
 {
   
-  "people":[
-    {"id":123,
-     "name":"Andrew"
-    }
-    ,
-    {"id":2,
-     "name":"Help"
-    }
-    ],
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    },
-       {
-      "id": 2,
-      "title": "goodbye"
-    },
-       {
-      "id": 3,
-      "title": "sample"
-    }
-  ],
+  
   "casefiles":[
     {
   "id": 16590,
