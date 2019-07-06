@@ -2,21 +2,27 @@
   "lists":[
     {"id":1,
      "name":"My Files",
-     "icon":"",
+     "icon":"assignment_ind",
      "text":"",
-     "to":""
+     "to":"/list2"
     },
     {"id":2,
      "name":"Under Analysis",
-     "icon":"",
+     "icon":"search",
      "text":"",
-     "to":""
+     "to":"/list"
     },
     {"id":3,
      "name":"Program Files",
-     "icon":"",
+     "icon":"toc",
      "text":"",
-     "to":""
+     "to":"/list2"
+    },
+    {"id":4,
+     "name":"Company Account",
+     "icon":"contacts",
+     "text":"",
+     "to":"/organization"
     }
     ],
   "persons":[
