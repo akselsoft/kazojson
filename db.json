@@ -1,5 +1,15 @@
 {
-  
+  "lists":[
+    {"id":1,
+     "name":"My Files"
+    },
+    {"id":2,
+     "name":"Under Analysis"
+    },
+    {"id":3,
+     "name":"Program Files"
+    }
+    ],
   "persons":[
     {
   "id": 38844,
