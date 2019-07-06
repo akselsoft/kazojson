@@ -3,26 +3,32 @@
     {"id":1,
      "name":"My Files",
      "icon":"assignment_ind",
-     "text":"",
+     "text":"These are my files.",
      "to":"/list2"
     },
     {"id":2,
      "name":"Under Analysis",
      "icon":"search",
-     "text":"",
+     "text":"These are all the files that are currently at the analysis phase.",
      "to":"/list"
     },
     {"id":3,
      "name":"Program Files",
      "icon":"toc",
-     "text":"",
+     "text":"Here are all current files.",
      "to":"/list2"
     },
     {"id":4,
      "name":"Company Account",
      "icon":"contacts",
-     "text":"",
+     "text":"You last looked at this organization",
      "to":"/organization"
+    },
+    {"id":5,
+     "name":"Joe Smiley",
+     "icon":"face",
+     "text":"Joe was the contact on the last file you looked at.",
+     "to":"/person"
     }
     ],
   "persons":[
