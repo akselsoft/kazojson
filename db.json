@@ -1,87 +1,5 @@
 {
-  "persons":[
-    {
-  "id": 38844,
-  "firstName": "FirstName",
-  "middleName": "",
-  "lastName": "LastName",
-  "title": "Conseillère au financement",
-  "salutation": {
-    "english": "Ms.",
-    "id": 2,
-    "french": "Madame"
-  },
-  "language": {
-    "id": 2,
-    "english": "English",
-    "french": "Anglais"
-  },
-  "workNumber": "555-555-7001",
-  "workExtension": "1234",
-  "homeNumber": "",
-  "homeExtension": "",
-  "faxNumber": "555-555-6666",
-  "webSite": "",
-  "email": "person@sample.com",
-  "startDate": "2019-07-06",
-  "endDate": "",
-  "cavcoId": "",
-  "citizenship": {
-    "endDate": "",
-    "english": "Canada",
-    "id": 1,
-    "french": "Canada",
-    "startDate": "2019-07-06",
-    "permanentResident": 0
-  },
-  "notes": "New web user",
-  "mailingAddress": {
-    "country": {
-      "id": 1,
-      "english": "Canada",
-      "french": "Canada"
-    },
-    "poBox": "",
-    "streetName": "Main Street",
-    "suite": "8",
-    "province": {
-      "id": 6,
-      "english": "Quebec",
-      "french": "Québec"
-    },
-    "streetNumber": "5455",
-    "city": "Montréal",
-    "postalCode": "P1P 1P1"
-  },
-  "physicalAddress": {
-    "country": {
-      "id": 1,
-      "english": "Canada",
-      "french": "Canada"
-    },
-    "poBox": "",
-    "streetName": "Second Streey",
-    "suite": "Bureau 8",
-    "province": {
-      "id": 6,
-      "english": "Quebec",
-      "french": "Québec"
-    },
-    "streetNumber": "5",
-    "city": "Montréal",
-    "postalCode": "P1P 1P1"
-  },
-  "attributes": [
-    {
-      "type": "external value, name",
-      "id": 5,
-      "english": "Alias",
-      "french": "Alias",
-      "value": "Jojo",
-      "comment": ""
-    }
-  ]
-}],
+  
   "people":[
     {"id":123,
      "name":"Andrew"
@@ -168,7 +86,8 @@
       "french": "Niveau de risque"
     }
   ]
-}],
+}
+  ],
   "assignments":[
   {
     "phase": {
