@@ -7,6 +7,13 @@
      "color":"warning",
      "to":"/list2"
     },
+     {"id":9,
+     "name":"My Files",
+     "icon":"assignment_ind",
+     "text":"These are my files.",
+     "color":"warning",
+     "to":"/list2"
+    },
     {"id":2,
      "name":"Under Analysis",
      "icon":"search",
