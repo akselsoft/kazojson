@@ -1,16 +1,17 @@
 {
   "lists":[
     {"id":1,
-     "name":"My Files",
+     "name":"Your Files",
      "icon":"assignment_ind",
      "text":"These are my files.",
-     "color":"success",
+     "color":"warning",
      "to":"/list2"
     },
     {"id":2,
      "name":"Under Analysis",
      "icon":"search",
      "text":"These are all the files that are currently at the analysis phase.",
+     "color":"red",
      "to":"/list"
     },
     {"id":3,
