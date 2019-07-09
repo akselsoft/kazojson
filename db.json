@@ -173,6 +173,8 @@
   "startDate": "2019-07-05",
   "lastUpdated": "2019-07-05",
   "isViewing": 0,
+      "list":"Shareholders",
+      
   "attributes": [
     {
       "values": [
@@ -212,6 +214,8 @@
     "id": 130070,
     "name": "CIOB"
   },
+       "list":"Objects",
+      
   "caseFileStatus": {
     "id": 5,
     "english": "Open",
