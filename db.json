@@ -1,5 +1,42 @@
 {
-  "lists":[
+"list":
+[
+{
+    "id": 1,
+"header": [
+{
+    "columnName": "CsFileNo",
+    "visible": true,
+    "english": "Case File No",
+    "french": "Dossier"
+},
+{
+    "columnName": "CsFileNm",
+    "visible": true,
+    "english": "Case File Name",
+    "french": "Nom"
+}
+,
+{
+    "columnName": "AssignedTo",
+    "visible": true,
+    "english": "Analyst",
+    "french": "Agent"
+}
+],
+"results": [
+    {"row":
+        ["15490","My Production","John Smith"]
+    }
+
+        
+    
+]
+
+
+}
+],
+    "lists":[
     {"id":1,
      "name":"Your Files",
      "icon":"assignment_ind",
