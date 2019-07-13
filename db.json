@@ -312,7 +312,7 @@
   "startDate": "2019-07-05",
   "lastUpdated": "2019-07-05",
   "isViewing": 0,
-  "lists":[
+  "components":[
      {"component":"Shareholders"},
      {"component":"personnel"}
    ],
@@ -356,7 +356,7 @@
     "id": 130070,
     "name": "CIOB"
   },
-    "lists":[
+    "components":[
         {"component":"Objects"}
         ],
       
