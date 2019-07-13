@@ -18,17 +18,25 @@
          "content":
          [
              {
-                 "12345","40293","Production 40293"
+                 "csfileid":"12345",
+                 "csfileno":"40293",
+                 "csfilenm":"Production 40293"
              }
              ,
               {
-                 "12445","20293","File 20293 "
+                "csfileid": "12445",
+                "csfileno":"20293",
+                "csfilenm":"File 20293 "
              },
               {
-                 "22345","30293","My File"
+                "csfileid":"22345",
+                "csfileno":"30293",
+                "csfilenm":"My File"
              },
               {
-                 "5545","42293","Their File"
+                "csfileid": "5545",
+                "csfileno":"42293",
+                "csfilenm":"Their File"
              }
              ],
          "filter":
