@@ -1,4 +1,48 @@
 {
+    "list":[
+        {"id":1,
+         "header":[
+             {"fieldName":"CsFileID",
+              "english":"Case File ID",
+              "french":"Dossier"
+             },
+             {"fieldName":"csfileno",
+              "english":"Case #",
+              "french":"Dossier"
+             },
+             {"fieldName":"CsFileNm",
+              "english":"Name",
+              "french":"Nom"
+             }
+             ],
+         "content":
+         [
+             {
+                 "12345","40293","Production 40293"
+             }
+             ,
+              {
+                 "12445","20293","File 20293 "
+             },
+              {
+                 "22345","30293","My File"
+             },
+              {
+                 "5545","42293","Their File"
+             }
+             ],
+         "filter":
+         [
+             {"fieldName":"PhaseNameEn",
+             "operator":"like",
+             "value":"Registration",
+             "conjunction":"or"},
+             {"fieldName":"PhaseNameEn",
+             "operator":"like",
+             "value":"Part B Registration",
+             "conjunction":"or"}
+             ]
+        ],
 
     "lists":[
     {"id":1,
