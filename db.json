@@ -91,7 +91,7 @@
      "to":"/organization"
     },
     {"id":5,
-     "name":"Joe Smiley",
+     "name":"Martin Smiley",
      "icon":"face",
      "text":"Joe was the contact on the last file you looked at.",
      "to":"/person"
