@@ -42,7 +42,9 @@
              "value":"Part B Registration",
              "conjunction":"or"}
              ]
-        ],
+        ]
+    }
+],
 
     "lists":[
     {"id":1,
