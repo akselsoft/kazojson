@@ -1,4 +1,78 @@
 {
+    "organizations":
+    [{
+  "id": 1368,
+  "organizationName": "Exploration Production Inc.",
+  "type": {
+    "english": "Incorporated",
+    "id": 1,
+    "french": "Incorporé"
+  },
+  "affiliation": {
+    "english": "Broadcaster Affiliated Production Company",
+    "id": 2,
+    "french": "Réalisateur affilié à une compagnie de production"
+  },
+  "fiscalYearEnd": "12/31",
+  "startDate": "2019-07-13",
+  "endDate": "",
+  "notes": "",
+  "incorporationDate": "2019-07-13",
+  "workNumber": "(416) 384-5000",
+  "workExtension": "",
+  "homeNumber": "",
+  "homeExtension": "",
+  "faxNumber": "(416) 384-4208",
+  "email": "info@explorationproduction.com",
+  "webSite": "www.explorationproduction.com",
+  "mailingAddress": {
+    "country": {
+      "id": 1,
+      "english": "Canada",
+      "french": "Canada"
+    },
+    "poBox": "",
+    "streetName": "ave de Gaspé",
+    "suite": "Bureau 804",
+    "province": {
+      "id": 6,
+      "english": "Quebec",
+      "french": "Québec"
+    },
+    "streetNumber": "5455",
+    "city": "Montréal",
+    "postalCode": "H2T 3B3"
+  },
+  "physicalAddress": {
+    "country": {
+      "id": 1,
+      "english": "Canada",
+      "french": "Canada"
+    },
+    "poBox": "",
+    "streetName": "ave de Gaspé",
+    "suite": "Bureau 804",
+    "province": {
+      "id": 6,
+      "english": "Quebec",
+      "french": "Québec"
+    },
+    "streetNumber": "5455",
+    "city": "Montréal",
+    "postalCode": "H2T 3B3"
+  },
+  "attributes": [
+    {
+      "type": "external value, name",
+      "id": 5,
+      "english": "Amended",
+      "french": "En attente",
+      "value": "Amended",
+      "comment": "Amended"
+    }
+  ]
+}
+        ],
     "list":[
         {"id":1,
          "header":[
