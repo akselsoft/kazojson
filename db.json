@@ -38,7 +38,7 @@
                 "csfileno":"42293",
                 "csfilenm":"Their File"
              }
-             ],
+        ],
          "filter":
          [
              {"fieldName":"PhaseNameEn",
@@ -49,8 +49,9 @@
              "operator":"like",
              "value":"Part B Registration",
              "conjunction":"or"}
-             ]
-        ]
+
+         ]
+           
     }
 ],
 
