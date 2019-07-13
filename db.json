@@ -100,9 +100,9 @@
   "persons":[
     {
   "id": 38844,
-  "firstName": "FirstName",
+  "firstName": "Jane",
   "middleName": "",
-  "lastName": "LastName",
+  "lastName": "Leroux",
   "title": "Conseillère au financement",
   "salutation": {
     "english": "Ms.",
@@ -179,27 +179,110 @@
       "comment": ""
     }
   ]
-}],
+},
+   {
+  "id": 79013,
+  "firstName": "John",
+  "middleName": "",
+  "lastName": "Smith",
+  "title": "Consultant",
+  "salutation": {
+    "english": "Mr.",
+    "id": 2,
+    "french": "M."
+  },
+  "language": {
+    "id": 2,
+    "english": "English",
+    "french": "Anglais"
+  },
+  "workNumber": "555-555-7001",
+  "workExtension": "1234",
+  "homeNumber": "",
+  "homeExtension": "",
+  "faxNumber": "555-555-6666",
+  "webSite": "",
+  "email": "jsmith@sample.com",
+  "startDate": "2017-01-06",
+  "endDate": "",
+  "cavcoId": "",
+  "citizenship": {
+    "endDate": "",
+    "english": "Canada",
+    "id": 1,
+    "french": "Canada",
+    "startDate": "2017-07-06",
+    "permanentResident": 0
+  },
+  "notes": "New web user",
+  "mailingAddress": {
+    "country": {
+      "id": 1,
+      "english": "Canada",
+      "french": "Canada"
+    },
+    "poBox": "",
+    "streetName": "Main Street",
+    "suite": "8",
+    "province": {
+      "id": 6,
+      "english": "Quebec",
+      "french": "Québec"
+    },
+    "streetNumber": "5455",
+    "city": "Montréal",
+    "postalCode": "P1P 1P1"
+  },
+  "physicalAddress": {
+    "country": {
+      "id": 1,
+      "english": "Canada",
+      "french": "Canada"
+    },
+    "poBox": "",
+    "streetName": "Second Streey",
+    "suite": "Bureau 8",
+    "province": {
+      "id": 6,
+      "english": "Quebec",
+      "french": "Québec"
+    },
+    "streetNumber": "5",
+    "city": "Montréal",
+    "postalCode": "P1P 1P1"
+  },
+  "attributes": [
+    {
+      "type": "external value, name",
+      "id": 5,
+      "english": "Alias",
+      "french": "Alias",
+      "value": "Jojo",
+      "comment": ""
+    }
+  ]
+}
+  ],
   "casefiles":[
     {
-  "id": 16590,
-  "number": "41390",
-  "name": "Film Cineplex",
+  "id": 16594,
+  "number": "41392",
+  "name": "Production Fabula",
   "officer": {
-    "id": 130070,
-    "name": "FirstName LastName"
+    "id": 79013,
+    "name": "John Smith"
   },
   "applicant": {
-    "id": 130070,
+    "id": 130210,
     "name": "Organization Name"
   },
   "contact": {
-    "id": 130070,
-    "name": "FirstName LastName"
+    "id": 38844,
+    "name": "Jane Leroux"
   },
   "submitter": {
-    "id": 130070,
-    "name": "FirstName LastName"
+    "id": 38844,
+    "name": "Jane Leroux"
   },
   "account": {
     "id": 130070,
@@ -223,16 +306,16 @@
     "externalfrench": "En revue "
   },
   "phaseAssignedTo": {
-    "id": 130070,
-    "name": "FirstName LastName"
+    "id": 79013,
+    "name": "John Smith"
   },
   "startDate": "2019-07-05",
   "lastUpdated": "2019-07-05",
   "isViewing": 0,
-      "lists":[
-        {"component":"Shareholders"},
-         {"component":"personnel"}
-        ],
+  "lists":[
+     {"component":"Shareholders"},
+     {"component":"personnel"}
+   ],
       
   "attributes": [
     {
