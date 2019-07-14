@@ -424,7 +424,8 @@
   "isViewing": 0,
   "components":[
      {"component":"Shareholders"},
-     {"component":"personnel"}
+     {"component":"personnel"},
+     {"costs":""}
    ],
       
   "attributes": [
@@ -440,7 +441,91 @@
       "id": 73,
       "french": "Niveau de risque"
     }
-  ]
+  ],
+    "decisions":
+    [
+        {
+          "phase": {
+            "id": 72,
+            "english": "Registration Phase",
+            "french": "Inscription"
+          },
+          "notes": "",
+          "endDate": "",
+          "scores": [
+            {
+              "note": "",
+              "textValue": "",
+              "criteria": {
+                "english": "If applicable, other relevant information has been received. Please specify.",
+                "id": 443,
+                "french": "On a reçu, s’il y a lieu, d’autres renseignements utiles. Veuillez préciser."
+              },
+              "id": 5119360,
+              "type": {
+                "english": "Mandatory Criteria",
+                "id": 96,
+                "french": "Critères obligatoires"
+              },
+              "scoreValue": {
+                "english": "Abstain",
+                "id": 4,
+                "french": "Abstention"
+              }
+            }
+          ],
+          "person": {
+            "id": 130070,
+            "name": "FirstName LastName"
+          },
+          "submittedOn": "2019-07-14",
+          "decisionStatus": {
+            "english": "Certification recommended",
+            "id": 76,
+            "french": "Certification recommandée"
+          },
+          "id": 206373,
+          "version": "1",
+          "startDate": "2019-07-14"
+        }
+      ],
+      "attachments":[
+        {
+            "notes": "notes go here",
+            "documentname": "File",
+            "documenttype": {
+              "english": "Media",
+              "id": 34424,
+              "french": "Media"
+            },
+            "location": "pchap0005",
+            "id": 2342424
+          }
+      ],
+      "assignments":[
+        {
+          "phase": {
+            "id": 73,
+            "English": "Analysis",
+            "French": "Analysis",
+            "EnglishDescription": "",
+            "FrenchDescription": "",
+            "StartDate": "20190101",
+            "EndDate": "20191231",
+            "Type": {
+              "id": 24,
+              "English": "Submission",
+              "French": "Soumission"
+            }
+          },
+          "phaseAssignedTo": {
+            "id": 130070,
+            "name": "FirstName LastName"
+          },
+          "startDate": "2017-08-08T12:49:34.673Z"
+        }
+      ]
+     
 },
      {
   "id": 16592,
@@ -510,29 +595,7 @@
   ]
 }
   ],
-  "assignments":[
-  {
-    "phase": {
-      "id": 73,
-      "English": "Analysis",
-      "French": "Analysis",
-      "EnglishDescription": "",
-      "FrenchDescription": "",
-      "StartDate": "20190101",
-      "EndDate": "20191231",
-      "Type": {
-        "id": 24,
-        "English": "Submission",
-        "French": "Soumission"
-      }
-    },
-    "phaseAssignedTo": {
-      "id": 130070,
-      "name": "FirstName LastName"
-    },
-    "startDate": "2017-08-08T12:49:34.673Z"
-  }
-],
+ 
   "profile": {
     "name": "typicode"
   }
