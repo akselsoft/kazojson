@@ -7,7 +7,700 @@
     "english": "Incorporated",
     "id": 1,
     "french": "Incorporé"
+  },a{
+    "organizations":
+    [{
+  "id": 1368,
+  "organizationName": "Exploration Production Inc.",
+  "type": {
+    "english": "Incorporated",
+    "id": 1,
+    "french": "Incorporé"
   },
+  "affiliation": {
+    "english": "Broadcaster Affiliated Production Company",
+    "id": 2,
+    "french": "Réalisateur affilié à une compagnie de production"
+  },
+  "fiscalYearEnd": "12/31",
+  "startDate": "2019-07-13",
+  "endDate": "",
+  "notes": "",
+  "incorporationDate": "2019-07-13",
+  "workNumber": "(416) 384-5000",
+  "workExtension": "",
+  "homeNumber": "",
+  "homeExtension": "",
+  "faxNumber": "(416) 384-4208",
+  "email": "info@explorationproduction.com",
+  "website": "www.explorationproduction.com",
+  "mailingAddress": {
+    "country": {
+      "id": 1,
+      "english": "Canada",
+      "french": "Canada"
+    },
+    "poBox": "",
+    "streetName": "ave de Gaspé",
+    "suite": "Bureau 804",
+    "province": {
+      "id": 6,
+      "english": "Quebec",
+      "french": "Québec"
+    },
+    "streetNumber": "5455",
+    "city": "Montréal",
+    "postalCode": "H2T 3B3"
+  },
+  "physicalAddress": {
+    "country": {
+      "id": 1,
+      "english": "Canada",
+      "french": "Canada"
+    },
+    "poBox": "",
+    "streetName": "ave de Gaspé",
+    "suite": "Bureau 804",
+    "province": {
+      "id": 6,
+      "english": "Quebec",
+      "french": "Québec"
+    },
+    "streetNumber": "5455",
+    "city": "Montréal",
+    "postalCode": "H2T 3B3"
+  }, "components":[
+    {"component":"Contacts"},
+    {"component":"Partners"}
+  ],
+  "attributes": [
+    {
+      "type": "external value, name",
+      "id": 5,
+      "english": "Business Number",
+      "french": "En attente",
+      "value": "334324",
+      "comment": "Amended"
+    }
+  ]
+}
+        ],
+    "list":[
+        {"id":1,
+         "header":[
+             {"fieldName":"CsFileID",
+              "english":"Case File ID",
+              "french":"Dossier"
+             },
+             {"fieldName":"csfileno",
+              "english":"Case #",
+              "french":"Dossier"
+             },
+             {"fieldName":"CsFileNm",
+              "english":"Name",
+              "french":"Nom"
+             }
+             ],
+         "content":
+         [
+             {
+                 "csfileid":"12345",
+                 "csfileno":"40293",
+                 "csfilenm":"Production 40293"
+             }
+             ,
+              {
+                "csfileid": "12445",
+                "csfileno":"20293",
+                "csfilenm":"File 20293 "
+             },
+              {
+                "csfileid":"22345",
+                "csfileno":"30293",
+                "csfilenm":"My File"
+             },
+              {
+                "csfileid": "5545",
+                "csfileno":"42293",
+                "csfilenm":"Their File"
+             }
+        ],
+         "filter":
+         [
+             {"fieldName":"PhaseNameEn",
+             "operator":"like",
+             "value":"Registration",
+             "conjunction":"or"},
+             {"fieldName":"PhaseNameEn",
+             "operator":"like",
+             "value":"Part B Registration",
+             "conjunction":"or"}
+
+         ]
+           
+    }
+],
+
+    "lists":[
+    {"id":1,
+     "name":"Your Files",
+     "icon":"assignment_ind",
+     "text":"These are my files.",
+     "color":"warning",
+     "to":"/list2"
+    },
+     {"id":9,
+     "name":"My Files",
+     "icon":"assignment_ind",
+     "text":"These are my files.",
+     "color":"warning",
+     "to":"/list2"
+    },
+    {"id":2,
+     "name":"Under Analysis",
+     "icon":"search",
+     "text":"These are all the files that are currently at the analysis phase.",
+     "color":"red",
+     "to":"/list"
+    },
+    {"id":3,
+     "name":"Program Files",
+     "icon":"toc",
+     "text":"Here are all current files.",
+     "to":"/list2"
+    },
+    {"id":4,
+     "name":"Company Account",
+     "icon":"contacts",
+     "text":"You last looked at this organization",
+     "color":"blue",
+     "to":"/organization"
+    },
+    {"id":5,
+     "name":"Martin Smiley",
+     "icon":"face",
+     "text":"Joe was the contact on the last file you looked at.",
+     "to":"/person"
+    }
+    ],
+  "persons":[
+    {
+  "id": 38844,
+  "firstName": "Jane",
+  "middleName": "",
+  "lastName": "Leroux",
+  "title": "Conseillère au financement",
+  "salutation": {
+    "english": "Ms.",
+    "id": 2,
+    "french": "Madame"
+  },
+  "language": {
+    "id": 2,
+    "english": "English",
+    "french": "Anglais"
+  },
+  "comments":"First verified on june 5th, 1990",
+  "workNumber": "555-555-7001",
+  "workExtension": "1234",
+  "homeNumber": "",
+  "homeExtension": "",
+  "faxNumber": "555-555-6666",
+  "webSite": "",
+  "email": "person@sample.com",
+  "startDate": "2019-07-06",
+  "endDate": "",
+  "cavcoId": "",
+  "citizenship": {
+    "endDate": "",
+    "english": "Canada",
+    "id": 1,
+    "french": "Canada",
+    "startDate": "2019-07-06",
+    "permanentResident": 0
+  },
+  "notes": "New web user",
+  "mailingAddress": {
+    "country": {
+      "id": 1,
+      "english": "Canada",
+      "french": "Canada"
+    },
+    "poBox": "",
+    "streetName": "Main Street",
+    "suite": "8",
+    "province": {
+      "id": 6,
+      "english": "Quebec",
+      "french": "Québec"
+    },
+    "streetNumber": "5455",
+    "city": "Montréal",
+    "postalCode": "P1P 1P1"
+  },
+  "physicalAddress": {
+    "country": {
+      "id": 1,
+      "english": "Canada",
+      "french": "Canada"
+    },
+    "poBox": "",
+    "streetName": "Second Streey",
+    "suite": "Bureau 8",
+    "province": {
+      "id": 6,
+      "english": "Quebec",
+      "french": "Québec"
+    },
+    "streetNumber": "5",
+    "city": "Montréal",
+    "postalCode": "P1P 1P1"
+  }, "components":[
+    {"component":"Contacts"},
+    {"component":"Partners"}
+  ],
+  "attributes": [
+    {
+      "type": "external value, name",
+      "id": 5,
+      "english": "Alias",
+      "french": "Alias",
+      "value": "Jojo",
+      "comment": ""
+    },
+    {
+        "type": "external value, name",
+        "id": 6,
+        "english": "Date of Birth",
+        "french": "Date de naissance",
+        "value": "5/15/1980",
+        "comment": ""
+      },
+      {
+        "type": "external value, name",
+        "id": 10,
+        "english": "Send Notifications",
+        "french": "Notifier",
+        "value": "Yes",
+        "comment": ""
+      },
+      {
+        "type": "custom",
+        "id": 12,
+        "english": "CAVCO ID",
+        "french": "Numero BCPAC",
+        "value": "SMIT2323",
+        "comment": ""
+      }
+  ]
+},
+   {
+  "id": 79013,
+  "firstName": "John",
+  "middleName": "",
+  "lastName": "Smith",
+  "title": "Consultant",
+  "salutation": {
+    "english": "Mr.",
+    "id": 2,
+    "french": "M."
+  },
+  "language": {
+    "id": 2,
+    "english": "English",
+    "french": "Anglais"
+  },
+  "comments":"A comment from the initial person creation goes here",
+  "workNumber": "555-555-7001",
+  "workExtension": "1234",
+  "homeNumber": "",
+  "homeExtension": "",
+  "faxNumber": "555-555-6666",
+  "webSite": "",
+  "email": "jsmith@sample.com",
+  "startDate": "2017-01-06",
+  "endDate": "",
+  "cavcoId": "",
+  "citizenship": {
+    "endDate": "",
+    "english": "Canada",
+    "id": 1,
+    "french": "Canada",
+    "startDate": "2017-07-06",
+    "permanentResident": 0
+  },
+  "notes": "New web user",
+  "mailingAddress": {
+    "country": {
+      "id": 1,
+      "english": "Canada",
+      "french": "Canada"
+    },
+    "poBox": "",
+    "streetName": "Main Street",
+    "suite": "8",
+    "province": {
+      "id": 6,
+      "english": "Quebec",
+      "french": "Québec"
+    },
+    "streetNumber": "5455",
+    "city": "Montréal",
+    "postalCode": "P1P 1P1"
+  },
+  "physicalAddress": {
+    "country": {
+      "id": 1,
+      "english": "Canada",
+      "french": "Canada"
+    },
+    "poBox": "",
+    "streetName": "Second Streey",
+    "suite": "Bureau 8",
+    "province": {
+      "id": 6,
+      "english": "Quebec",
+      "french": "Québec"
+    },
+    "streetNumber": "5",
+    "city": "Montréal",
+    "postalCode": "P1P 1P1"
+  },
+  "components":[
+    {"component":"Contacts"},
+    {"component":"Partners"}
+  ],
+  "attributes": [
+    {
+      "type": "external value, name",
+      "id": 5,
+      "english": "Alias",
+      "french": "Alias",
+      "value": "Jojo",
+      "comment": ""
+    }
+  ]
+}
+  ],
+  "casefiles":[
+    {
+  "id": 16594,
+  "number": "41392",
+  "name": "Production Fabula",
+  "officer": {
+    "id": 79013,
+    "name": "John Smith"
+  },
+  "applicant": {
+    "id": 130210,
+    "name": "Organization Name"
+  },
+  "contact": {
+    "id": 38844,
+    "name": "Jane Leroux"
+  },
+  "submitter": {
+    "id": 38844,
+    "name": "Jane Leroux"
+  },
+  "account": {
+    "id": 130070,
+    "name": "Organization Name"
+  },
+  "caseFileStatus": {
+    "id": 5,
+    "english": "Amended",
+    "french": "En attente"
+  },
+  "phase": {
+    "id": 72,
+    "english": "Registration Phase",
+    "french": "Inscription"
+  },
+  "phaseStatus": {
+    "id": 72,
+    "internalenglish": "Recommended ",
+    "internalfrench": "Recommande ",
+    "externalenglish": "Under review ",
+    "externalfrench": "En revue "
+  },
+  "phaseAssignedTo": {
+    "id": 79013,
+    "name": "John Smith"
+  },
+  "startDate": "2019-07-05",
+  "lastUpdated": "2019-07-05",
+  "isViewing": 0,
+  "components":[
+     {"component":"Shareholders"},
+     {"component":"personnel"},
+     {"costs":""}
+   ],
+      
+  "attributes": [
+    {
+      "values": [
+        {
+          "english": "Low",
+          "id": 189,
+          "french": "Bas"
+        }
+      ],
+      "english": "Risk Level",
+      "id": 73,
+      "french": "Niveau de risque"
+    }
+  ],
+    "decisions":
+    [
+        {
+            "phase": {
+              "id": 73,
+              "english": "Analysis Phase",
+              "french": "Analyze"
+            },
+            "notes": "",
+            "endDate": "",
+            "scores": [
+              {
+                "note": "",
+                "textValue": "",
+                "criteria": {
+                  "english": "If applicable, other relevant information has been received. Please specify.",
+                  "id": 443,
+                  "french": "On a reçu, s’il y a lieu, d’autres renseignements utiles. Veuillez préciser."
+                },
+                "id": 5119360,
+                "type": {
+                  "english": "Mandatory Criteria",
+                  "id": 96,
+                  "french": "Critères obligatoires"
+                },
+                "scoreValue": {
+                  "english": "Abstain",
+                  "id": 4,
+                  "french": "Abstention"
+                }
+              }
+            ],
+            "person": {
+              "id": 130070,
+              "name": "Jane Doe"
+            },
+            "submittedOn": "2019-07-14",
+            "decisionStatus": {
+              "english": "",
+              "id": 76,
+              "french": "",
+              "status":11
+            },
+            "id": 206373,
+            "version": "1",
+            "startDate": "2019-07-14"
+          },
+           {
+            "phase": {
+              "id": 74,
+              "english": "Assessment Phase",
+              "french": "Inscription"
+            },
+            "notes": "",
+            "endDate": "",
+            "scores": [
+              {
+                "note": "",
+                "textValue": "",
+                "criteria": {
+                  "english": "If applicable, other relevant information has been received. Please specify.",
+                  "id": 443,
+                  "french": "On a reçu, s’il y a lieu, d’autres renseignements utiles. Veuillez préciser."
+                },
+                "id": 5119360,
+                "type": {
+                  "english": "Mandatory Criteria",
+                  "id": 96,
+                  "french": "Critères obligatoires"
+                },
+                "scoreValue": {
+                  "english": "Abstain",
+                  "id": 4,
+                  "french": "Abstention"
+                }
+              }
+            ],
+            "person": {
+              "id": 130070,
+              "name": "Automated"
+            },
+            "submittedOn": "2019-07-14",
+            "decisionStatus": {
+              "english": "Ready for Analysis",
+              "id": 76,
+              "french": "recommandée",
+              "status":11
+            },
+            "id": 206373,
+            "version": "1",
+            "startDate": "2019-07-14"
+          },
+          {
+          "phase": {
+            "id": 72,
+            "english": "Registration Phase",
+            "french": "Inscription"
+          },
+          "notes": "",
+          "endDate": "",
+          "scores": [
+            {
+              "note": "",
+              "textValue": "",
+              "criteria": {
+                "english": "If applicable, other relevant information has been received. Please specify.",
+                "id": 443,
+                "french": "On a reçu, s’il y a lieu, d’autres renseignements utiles. Veuillez préciser."
+              },
+              "id": 5119360,
+              "type": {
+                "english": "Mandatory Criteria",
+                "id": 96,
+                "french": "Critères obligatoires"
+              },
+              "scoreValue": {
+                "english": "Abstain",
+                "id": 4,
+                "french": "Abstention"
+              }
+            }
+          ],
+          "person": {
+            "id": 130070,
+            "name": "FirstName LastName"
+          },
+          "submittedOn": "2019-07-14",
+          "decisionStatus": {
+            "english": "Certification recommended",
+            "id": 76,
+            "french": "Certification recommandée",
+            "status":10
+          },
+          "id": 206373,
+          "version": "1",
+          "startDate": "2019-07-14"
+        }
+      ],
+      "attachments":[
+        {
+            "notes": "notes go here",
+            "documentname": "File",
+            "documenttype": {
+              "english": "Media",
+              "id": 34424,
+              "french": "Media"
+            },
+            "location": "pchap0005",
+            "id": 2342424
+          }
+      ],
+      "assignments":[
+        {
+          "phase": {
+            "id": 73,
+            "English": "Analysis",
+            "French": "Analysis",
+            "EnglishDescription": "",
+            "FrenchDescription": "",
+            "StartDate": "20190101",
+            "EndDate": "20191231",
+            "Type": {
+              "id": 24,
+              "English": "Submission",
+              "French": "Soumission"
+            }
+          },
+          "phaseAssignedTo": {
+            "id": 130070,
+            "name": "FirstName LastName"
+          },
+          "startDate": "2017-08-08T12:49:34.673Z"
+        }
+      ]
+     
+},
+     {
+  "id": 16592,
+  "number": "39292",
+  "name": "Gangs of CIOB",
+  "officer": {
+    "id": 130070,
+    "name": "FirstName LastName"
+  },
+  "applicant": {
+    "id": 130070,
+    "name": "SAD"
+  },
+  "contact": {
+    "id": 130070,
+    "name": "Martin Lortie"
+  },
+  "submitter": {
+    "id": 130070,
+    "name": "FirstName LastName"
+  },
+  "account": {
+    "id": 130070,
+    "name": "CIOB"
+  },
+    "components":[
+        {"component":"Objects"}
+        ],
+      
+  "caseFileStatus": {
+    "id": 5,
+    "english": "Open",
+    "french": "Ouvert"
+  },
+  "phase": {
+    "id": 72,
+    "english": "Analysis Phase",
+    "french": "Inscription"
+  },
+  "phaseStatus": {
+    "id": 72,
+    "internalenglish": "Recommended ",
+    "internalfrench": "Recommande ",
+    "externalenglish": "Under review ",
+    "externalfrench": "En revue "
+  },
+  "phaseAssignedTo": {
+    "id": 130070,
+    "name": "FirstName LastName"
+  },
+  "startDate": "2019-07-05",
+  "lastUpdated": "2019-07-05",
+  "isViewing": 0,
+  "attributes": [
+    {
+      "values": [
+        {
+          "english": "Low",
+          "id": 189,
+          "french": "Bas"
+        }
+      ],
+      "english": "Risk Level",
+      "id": 73,
+      "french": "Niveau de risque"
+    }
+  ]
+}
+  ],
+ 
+  "profile": {
+    "name": "typicode"
+  }
+}
+
   "affiliation": {
     "english": "Broadcaster Affiliated Production Company",
     "id": 2,
