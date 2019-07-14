@@ -445,6 +445,93 @@
     "decisions":
     [
         {
+            "phase": {
+              "id": 73,
+              "english": "Analysis Phase",
+              "french": "Analyze"
+            },
+            "notes": "",
+            "endDate": "",
+            "scores": [
+              {
+                "note": "",
+                "textValue": "",
+                "criteria": {
+                  "english": "If applicable, other relevant information has been received. Please specify.",
+                  "id": 443,
+                  "french": "On a reçu, s’il y a lieu, d’autres renseignements utiles. Veuillez préciser."
+                },
+                "id": 5119360,
+                "type": {
+                  "english": "Mandatory Criteria",
+                  "id": 96,
+                  "french": "Critères obligatoires"
+                },
+                "scoreValue": {
+                  "english": "Abstain",
+                  "id": 4,
+                  "french": "Abstention"
+                }
+              }
+            ],
+            "person": {
+              "id": 130070,
+              "name": "Jane Doe"
+            },
+            "submittedOn": "2019-07-14",
+            "decisionStatus": {
+              "english": "",
+              "id": 76,
+              "french": ""
+            },
+            "id": 206373,
+            "version": "1",
+            "startDate": "2019-07-14"
+          }, {
+            "phase": {
+              "id": 74,
+              "english": "Assessment Phase",
+              "french": "Inscription"
+            },
+            "notes": "",
+            "endDate": "",
+            "scores": [
+              {
+                "note": "",
+                "textValue": "",
+                "criteria": {
+                  "english": "If applicable, other relevant information has been received. Please specify.",
+                  "id": 443,
+                  "french": "On a reçu, s’il y a lieu, d’autres renseignements utiles. Veuillez préciser."
+                },
+                "id": 5119360,
+                "type": {
+                  "english": "Mandatory Criteria",
+                  "id": 96,
+                  "french": "Critères obligatoires"
+                },
+                "scoreValue": {
+                  "english": "Abstain",
+                  "id": 4,
+                  "french": "Abstention"
+                }
+              }
+            ],
+            "person": {
+              "id": 130070,
+              "name": "Automated"
+            },
+            "submittedOn": "2019-07-14",
+            "decisionStatus": {
+              "english": "Ready for Analysis",
+              "id": 76,
+              "french": "recommandée"
+            },
+            "id": 206373,
+            "version": "1",
+            "startDate": "2019-07-14"
+          },
+          {
           "phase": {
             "id": 72,
             "english": "Registration Phase",
