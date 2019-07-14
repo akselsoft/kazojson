@@ -482,7 +482,8 @@
             "decisionStatus": {
               "english": "",
               "id": 76,
-              "french": ""
+              "french": "",
+              "status":10
             },
             "id": 206373,
             "version": "1",
@@ -525,7 +526,8 @@
             "decisionStatus": {
               "english": "Ready for Analysis",
               "id": 76,
-              "french": "recommandée"
+              "french": "recommandée",
+              "status":11
             },
             "id": 206373,
             "version": "1",
@@ -569,7 +571,8 @@
           "decisionStatus": {
             "english": "Certification recommended",
             "id": 76,
-            "french": "Certification recommandée"
+            "french": "Certification recommandée",
+            "status":10
           },
           "id": 206373,
           "version": "1",
