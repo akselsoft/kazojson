@@ -267,6 +267,14 @@
         "french": "Notifier",
         "value": "Yes",
         "comment": ""
+      },
+      {
+        "type": "custom",
+        "id": 12,
+        "english": "CAVCO ID",
+        "french": "Numero BCPAC",
+        "value": "SMIT2323",
+        "comment": ""
       }
   ]
 },
