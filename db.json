@@ -303,6 +303,7 @@
     "english": "English",
     "french": "Anglais"
   },
+  "profileImage":"https://app.swaggerhub.com/img/swaggerhub-logo.svg",
   "comments":"A comment from the initial person creation goes here",
   "workNumber": "555-555-7001",
   "workExtension": "1234",
