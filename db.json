@@ -60,7 +60,10 @@
     "streetNumber": "5455",
     "city": "Montréal",
     "postalCode": "H2T 3B3"
-  },
+  }, "components":[
+    {"component":"Contacts"},
+    {"component":"Partners"}
+  ],
   "attributes": [
     {
       "type": "external value, name",
@@ -243,7 +246,10 @@
     "streetNumber": "5",
     "city": "Montréal",
     "postalCode": "P1P 1P1"
-  },
+  }, "components":[
+    {"component":"Contacts"},
+    {"component":"Partners"}
+  ],
   "attributes": [
     {
       "type": "external value, name",
@@ -295,6 +301,7 @@
     "english": "English",
     "french": "Anglais"
   },
+  "comments":"A comment from the initial person creation goes here",
   "workNumber": "555-555-7001",
   "workExtension": "1234",
   "homeNumber": "",
@@ -350,6 +357,10 @@
     "city": "Montréal",
     "postalCode": "P1P 1P1"
   },
+  "components":[
+    {"component":"Contacts"},
+    {"component":"Partners"}
+  ],
   "attributes": [
     {
       "type": "external value, name",
