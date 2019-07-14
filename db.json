@@ -65,9 +65,9 @@
     {
       "type": "external value, name",
       "id": 5,
-      "english": "Amended",
+      "english": "Business Number",
       "french": "En attente",
-      "value": "Amended",
+      "value": "334324",
       "comment": "Amended"
     }
   ]
@@ -251,7 +251,23 @@
       "french": "Alias",
       "value": "Jojo",
       "comment": ""
-    }
+    },
+    {
+        "type": "external value, name",
+        "id": 6,
+        "english": "Date of Birth",
+        "french": "Date de naissance",
+        "value": "5/15/1980",
+        "comment": ""
+      },
+      {
+        "type": "external value, name",
+        "id": 10,
+        "english": "Send Notifications",
+        "french": "Notifier",
+        "value": "Yes",
+        "comment": ""
+      }
   ]
 },
    {
