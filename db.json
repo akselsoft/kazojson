@@ -75,6 +75,21 @@
       "comment": "Amended"
     }
   ]
+  ,
+  "activities":[
+    {
+      "id": 31,
+      "date": "2017-11-16T08:21:23.357Z",
+      "createdBy": "CAVCO Support",
+      "details": "Some details about the activity being performed",
+      "type": {
+        "id": 17,
+        "english": "B/N Confirmed",
+        "french": "Numéro d'entreprise confirmé"
+      },
+      "participants": "BNWebService"
+    }
+  ]
 }
         ],
     "list":[
@@ -136,6 +151,8 @@
     "lists":[
     {"id":1,
      "name":"Your Files",
+     "english":"Your files",
+     "french":"Mes fichiers",
      "icon":"assignment_ind",
      "text":"These are my files.",
      "color":"warning",
