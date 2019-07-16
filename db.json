@@ -1,6 +1,6 @@
 {
 
-  "people" : [
+  "posts" : [
     { "id": 1,
       "name":"someone" }
       ,
@@ -10,16 +10,16 @@
   ],
   "comments": [
     { "id": 1, 
-      "peopleid": 1, 
+      "postid": 1, 
     "comment":"hello" },
     { "id": 2, 
-      "peopleid": 1, 
+      "postid": 1, 
     "comment":"goodbye comment" },
     { "id": 3, 
-      "peopleid": 2, 
+      "postid": 2, 
     "comment":"hi to someone else" },
     { "id": 4, 
-      "peopleid": 2, 
+      "postid": 2, 
     "comment":"goodbye to someone else" }
   ],
   
