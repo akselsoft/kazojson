@@ -10,16 +10,16 @@
   ],
   "comments": [
     { "id": 1, 
-      "peopleId": 1, 
+      "peopleid": 1, 
     "comment":"hello" },
     { "id": 2, 
-      "peopleId": 1, 
+      "peopleid": 1, 
     "comment":"goodbye comment" },
     { "id": 3, 
-      "peopleId": 2, 
+      "peopleid": 2, 
     "comment":"hi to someone else" },
     { "id": 4, 
-      "peopleId": 2, 
+      "peopleid": 2, 
     "comment":"goodbye to someone else" }
   ],
     "organizations":
