@@ -119,14 +119,14 @@
         [ {
           "id": 31,
           "date": "2017-11-16T08:21:23.357Z",
-          "createdBy": "CAVCO Support",
-          "details": "Some details about the activity being performed",
+          "createdBy": "generic activity",
+          "details": "A generic activity",
           "type": {
             "id": 17,
             "english": "B/N Confirmed",
             "french": "Numéro d'entreprise confirmé"
           },
-          "participants": "BNWebService"
+          "participants": "Test from typicode"
         }]
         ,
 
