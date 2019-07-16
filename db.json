@@ -10,16 +10,16 @@
   ],
   "comments": [
     { "id": 1, 
-      "postid": 1, 
+      "postId": 1, 
     "comment":"hello" },
     { "id": 2, 
-      "postid": 1, 
+      "postId": 1, 
     "comment":"goodbye comment" },
     { "id": 3, 
-      "postid": 2, 
+      "postId": 2, 
     "comment":"hi to someone else" },
     { "id": 4, 
-      "postid": 2, 
+      "postId": 2, 
     "comment":"goodbye to someone else" }
   ],
   
