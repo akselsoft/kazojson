@@ -22,6 +22,7 @@
       "peopleid": 2, 
     "comment":"goodbye to someone else" }
   ],
+  
     "organizations":
     [{
   "id": 1368,
@@ -119,14 +120,14 @@
         [ {
           "id": 31,
           "date": "2017-11-16T08:21:23.357Z",
-          "createdBy": "generic activity",
-          "details": "A generic activity",
+          "createdBy": "CAVCO Support",
+          "details": "Some details about the activity being performed",
           "type": {
             "id": 17,
             "english": "B/N Confirmed",
             "french": "Numéro d'entreprise confirmé"
           },
-          "participants": "Test from typicode"
+          "participants": "BNWebService"
         }]
         ,
 
@@ -477,6 +478,7 @@
     "id": 79013,
     "name": "John Smith"
   },
+  "programid":34,
   "startDate": "2019-07-05",
   "lastUpdated": "2019-07-05",
   "isViewing": 0,
@@ -681,6 +683,7 @@
   "id": 16592,
   "number": "39292",
   "name": "Gangs of CIOB",
+  "programid":57,
   "officer": {
     "id": 130070,
     "name": "FirstName LastName"
