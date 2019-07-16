@@ -1,4 +1,27 @@
 {
+
+  "people" : [
+    { "id": 1,
+      "name":"someone" }
+      ,
+      { "id": 2,
+        "name":"someone else" }
+
+  ],
+  "comments": [
+    { "id": 1, 
+      "peopleId": 1, 
+    "comment":"hello" },
+    { "id": 2, 
+      "peopleId": 1, 
+    "comment":"goodbye comment" },
+    { "id": 3, 
+      "peopleId": 2, 
+    "comment":"hi to someone else" },
+    { "id": 4, 
+      "peopleId": 2, 
+    "comment":"goodbye to someone else" }
+  ],
     "organizations":
     [{
   "id": 1368,
@@ -92,6 +115,21 @@
   ]
 }
         ],
+        "activities":
+        [ {
+          "id": 31,
+          "date": "2017-11-16T08:21:23.357Z",
+          "createdBy": "CAVCO Support",
+          "details": "Some details about the activity being performed",
+          "type": {
+            "id": 17,
+            "english": "B/N Confirmed",
+            "french": "Numéro d'entreprise confirmé"
+          },
+          "participants": "BNWebService"
+        }]
+        ,
+
     "list":[
         {"id":1,
          "header":[
