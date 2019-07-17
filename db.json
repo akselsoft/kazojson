@@ -119,6 +119,7 @@
         ],
         "activities":
         [ {
+          "casefileId":16594,
           "id": 31,
           "date": "2017-11-16T08:21:23.357Z",
           "createdBy": "CAVCO Support",
@@ -129,7 +130,51 @@
             "french": "Numéro d'entreprise confirmé"
           },
           "participants": "BNWebService"
-        }]
+        },
+        {
+          "casefileId":16594,
+          "personId":79013,
+          "id": 31,
+          "date": "2017-11-16T08:21:23.357Z",
+          "createdBy": "CAVCO Support",
+          "details": "Some details about the activity being performed",
+          "type": {
+            "id": 17,
+            "english": "B/N Confirmed",
+            "french": "Numéro d'entreprise confirmé"
+          },
+          "participants": "BNWebService"
+        }
+        ,
+        {
+          "casefileId":16594,
+          "personId":12345,
+          "id": 31,
+          "date": "2017-11-16T08:21:23.357Z",
+          "createdBy": "CAVCO Support",
+          "details": "Some details about the activity being performed",
+          "type": {
+            "id": 17,
+            "english": "B/N Confirmed",
+            "french": "Numéro d'entreprise confirmé"
+          },
+          "participants": "BNWebService"
+        },
+        {
+          "personId":79013,
+          "id": 31,
+          "date": "2017-11-16T08:21:23.357Z",
+          "createdBy": "CAVCO Support",
+          "details": "A person ONLY activity",
+          "type": {
+            "id": 17,
+            "english": "B/N Confirmed",
+            "french": "Numéro d'entreprise confirmé"
+          },
+          "participants": "BNWebService"
+        }
+        ,
+      ]
         ,
 
     "list":[
@@ -790,6 +835,33 @@
   
  ]
  ,
+ "amendments":
+ [
+
+ ],
+ "history":[
+  [
+    {
+      "casefileId":"16592",
+      "date": "2017-06-20T16:14:09.117Z",
+      "notes": "",
+      "frenchDescription": "(FR) Submitted",
+      "person": "Natasha Melillo",
+      "englishDescription": "Submitted",
+      "type": "Submission"
+    },
+    {
+      "casefileId":"16592",
+      "date": "2018-06-20T16:14:09.117Z",
+      "notes": "",
+      "frenchDescription": "Decision",
+      "person": "Natasha Melillo",
+      "englishDescription": "Submitted",
+      "type": "Amendment"
+    }
+  ]
+ ],
+ 
   "profile": {
     "name": "typicode"
   }
