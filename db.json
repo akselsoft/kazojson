@@ -240,7 +240,7 @@
      "french":"Mes fichiers",
      "icon":"assignment_ind",
      "text":"These are my files.",
-     "color":"warning",
+     "color":"teal-blue",
      "to":"/list2"
     },
      {"id":9,
