@@ -1,4 +1,61 @@
 {
+  "authentication" : {
+    "person": {
+      "id": 130070,
+      "name": "FirstName LastName",
+      "initials": "UI"
+    },
+    "lists": [
+      {
+        "id": 0,
+        "englishName": "My Files",
+        "frenchName": "string",
+        "icon": "inbasket",
+        "englishDescription": "Files that are currently assigned to me",
+        "frenchDescription": "string",
+        "component": "caselist"
+      },
+      {
+        "id": 0,
+        "englishName": "Program Files",
+        "frenchName": "string",
+        "icon": "inbasket",
+        "englishDescription": "Files that are currently open in the program",
+        "frenchDescription": "string",
+        "component": "caselist"
+      }
+    ],
+    "accesslevels": [
+      {
+        "accesslevel": "meetingmanager",
+        "english": "string",
+        "french": "string",
+        "groupenglish": "Configuration",
+        "groupfrench": "Configuration"
+      },
+      {
+        "accesslevel": "casefile_general",
+        "english": "string",
+        "french": "string",
+        "groupenglish": "Case File",
+        "groupfrench": "Case File"
+      },
+      {
+        "accesslevel": "casefile_summary",
+        "english": "string",
+        "french": "string",
+        "groupenglish": "Case File",
+        "groupfrench": "Case File"
+      },
+      {
+        "accesslevel": "person_summary",
+        "english": "string",
+        "french": "string",
+        "groupenglish": "Person",
+        "groupfrench": "Person"
+      }
+    ]
+  },
   "people" : [
     { "id": 1,
       "name":"someone" }
