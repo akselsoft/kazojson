@@ -1,31 +1,4 @@
 {
-  "authentication" : {
-  "person": {
-    "id": 130070,
-    "name": "FirstName LastName",
-    "initials": "UI"
-  },
-  "lists": [
-    {
-      "id": 0,
-      "englishName": "My Files",
-      "frenchName": "string",
-      "icon": "inbasket",
-      "englishDescription": "Files that are currently assigned to me",
-      "frenchDescription": "string",
-      "component": "caselist,personlist,orglist"
-    }
-  ],
-  "accesslevels": [
-    {
-      "accesslevel": "meetingmanager",
-      "english": "string",
-      "french": "string",
-      "groupenglish": "Configuration",
-      "groupfrench": "Configuration"
-    }
-  ]
-},
   "people" : [
     { "id": 1,
       "name":"someone" }
