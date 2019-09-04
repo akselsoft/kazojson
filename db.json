@@ -857,7 +857,7 @@
      "to":
      {
 "id":79013,
-"name":"Person 1"
+"name":"Person 1 (from json)"
      }
      ,
      "from":
@@ -866,7 +866,7 @@
 "name":"Person 1"
      },
      "subject":"Message 1",
-     "message":"",
+     "message":"This is a sample message",
      "sent":"20190701",
      "read":""
    },
@@ -884,7 +884,7 @@
 "name":"Person 1"
     },
     "subject":"Another message",
-    "message":"",
+    "message":"Are you replying to me?",
     "sent":"20190701",
     "read":""
   }
