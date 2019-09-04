@@ -14,8 +14,30 @@
       "note": "",
       "textValue": "",
       "criteria": {
-        "english": "If applicable, other relevant information has been received. Please specify.",
+        "sortOrder": 1,
+        "english": "I have verified all the necessary documents.",
         "id": 443,
+        "french": "On a reçu, s’il y a lieu, d’autres renseignements utiles. Veuillez préciser."
+      },
+      "id": 5119360,
+      "type": {
+        "english": "Mandatory Criteria",
+        "id": 96,
+        "french": "Critères obligatoires"
+      },
+      "scoreValue": {
+        "english": "Agreed",
+        "id": 4,
+        "french": "Abstention"
+      }
+    },
+    {
+      "note": "",
+      "textValue": "",
+      "criteria": {
+        "sortOrder": 2,
+        "english": "If applicable, other relevant information has been received. Please specify.",
+        "id": 444,
         "french": "On a reçu, s’il y a lieu, d’autres renseignements utiles. Veuillez préciser."
       },
       "id": 5119360,
