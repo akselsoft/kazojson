@@ -857,13 +857,13 @@
      "to":
      {
 "id":79013,
-"name":"Person 1 (from json)"
+"name":"John (from json)"
      }
      ,
      "from":
      {
 "id":79013,
-"name":"Person 1"
+"name":"Jane"
      },
      "subject":"Message 1",
      "message":"This is a sample message",
@@ -875,13 +875,13 @@
     "to":
     {
 "id":79013,
-"name":"Person 1"
+"name":"Jean"
     }
     ,
     "from":
     {
 "id":79013,
-"name":"Person 1"
+"name":"Francois"
     },
     "subject":"Another message",
     "message":"Are you replying to me?",
