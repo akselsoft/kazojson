@@ -1,4 +1,52 @@
 {
+  "decisions": [
+    {
+  "id": 206373,
+  "phase": {
+    "id": 72,
+    "english": "Registration Phase",
+    "french": "Inscription"
+  },
+  "notes": "",
+  "endDate": "",
+  "scores": [
+    {
+      "note": "",
+      "textValue": "",
+      "criteria": {
+        "english": "If applicable, other relevant information has been received. Please specify.",
+        "id": 443,
+        "french": "On a reçu, s’il y a lieu, d’autres renseignements utiles. Veuillez préciser."
+      },
+      "id": 5119360,
+      "type": {
+        "english": "Mandatory Criteria",
+        "id": 96,
+        "french": "Critères obligatoires"
+      },
+      "scoreValue": {
+        "english": "Abstain",
+        "id": 4,
+        "french": "Abstention"
+      }
+    }
+  ],
+  "person": {
+    "id": 130070,
+    "name": "FirstName LastName",
+    "initials": "UI"
+  },
+  "submittedOn": "2019-09-04",
+  "decisionStatus": {
+    "english": "Certification recommended",
+    "id": 76,
+    "french": "Certification recommandée",
+    "status": 10
+  },
+  "version": "1",
+  "startDate": "2019-09-04"
+}
+    ],
   "authentication" : {
     "person": {
       "id": 130070,
