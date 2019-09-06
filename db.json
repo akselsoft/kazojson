@@ -655,8 +655,9 @@
   "lastUpdated": "2019-07-05",
   "isViewing": 0,
   "components":[
-     {"component":"Shareholders.vue"},
-     {"component":"Personnel.vue"}
+     {"component":"CAVCO_shareholders.vue"},
+     {"component":"CAVCO_costs.vue"},
+    {"component":"CAVCO_personnel.vue"}
    ],
       
   "attributes": [
@@ -876,7 +877,7 @@
     "name": "CIOB"
   },
     "components":[
-        {"component":"Objects"}
+        {"component":"MCP_objects.vue"}
         ],
       
   "caseFileStatus": {
