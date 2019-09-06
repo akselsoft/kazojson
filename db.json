@@ -212,8 +212,8 @@
     "city": "Montréal",
     "postalCode": "H2T 3B3"
   }, "components":[
-    {"component":"Contacts"},
-    {"component":"Partners"}
+    {"component":"Party_contacts.vue"},
+    {"component":"Partners.vue"}
   ],
   "attributes": [
     {
@@ -655,9 +655,8 @@
   "lastUpdated": "2019-07-05",
   "isViewing": 0,
   "components":[
-     {"component":"Shareholders"},
-     {"component":"personnel"},
-     {"costs":""}
+     {"component":"Shareholders.vue"},
+     {"component":"Personnel.vue"}
    ],
       
   "attributes": [
