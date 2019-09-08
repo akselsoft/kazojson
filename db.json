@@ -655,9 +655,9 @@
   "lastUpdated": "2019-07-05",
   "isViewing": 0,
   "components":[
-     {"component":"components/CAVCO_shareholders.vue"},
-     {"component":"components/CAVCO_costs.vue"},
-    {"component":"components/CAVCO_personnel.vue"}
+     {"component":"CAVCO_shareholders"},
+     {"component":"CAVCO_costs"},
+    {"component":"CAVCO_personnel"}
    ],
       
   "attributes": [
