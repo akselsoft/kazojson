@@ -212,8 +212,8 @@
     "city": "Montréal",
     "postalCode": "H2T 3B3"
   }, "components":[
-    {"component":"components/Party_contacts.vue"},
-    {"component":"components/Partners.vue"}
+    {"component":"PartyContacts"},
+    {"component":"PartyPartners"}
   ],
   "attributes": [
     {
@@ -477,8 +477,8 @@
     "city": "Montréal",
     "postalCode": "P1P 1P1"
   }, "components":[
-    {"component":"components/Party_contacts.vue"},
-    {"component":"components/Party_partners.vue"}
+    {"component":"PartyContacts"},
+    {"component":"PartyPartners"}
   ],
   "attributes": [
     {
@@ -589,8 +589,8 @@
     "postalCode": "P1P 1P1"
   },
   "components":[
-    {"component":"components/Party_contacts.vue"},
-    {"component":"components/Party_partners.vue"}
+    {"component":"PartyContacts"},
+    {"component":"PartyPartners"}
   ],
   "attributes": [
     {
@@ -655,9 +655,16 @@
   "lastUpdated": "2019-07-05",
   "isViewing": 0,
   "components":[
-     {"component":"CAVCO_shareholders"},
-     {"component":"CAVCO_costs"},
-    {"component":"CAVCO_personnel"}
+     {"component":"CavcoProduction"},
+     {"component":"CavcoDates"},
+     {"component":"CavcoSynopsis"},
+     {"component":"CavcoApplicant"},
+     {"component":"CaseFileContacts"},
+     {"component":"CavcoChainOfTitle"},
+    {"component":"CavcoPersonnel"},
+    {"component":"CavcoFunding"},
+     {"component":"CavcoCosts"},
+    {"component":"CavcoFinancialSummary"}
    ],
       
   "attributes": [
@@ -877,7 +884,9 @@
     "name": "CIOB"
   },
     "components":[
-        {"component":"components/MCP_objects.vue"}
+        {"component":"McpDonors"},
+        {"component":"McpMeetings"},
+        {"component":"McpObjects"}
         ],
       
   "caseFileStatus": {
