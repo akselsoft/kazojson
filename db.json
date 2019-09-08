@@ -212,8 +212,8 @@
     "city": "Montréal",
     "postalCode": "H2T 3B3"
   }, "components":[
-    {"component":"PartyContacts"},
-    {"component":"PartyPartners"}
+    {"component":"PartyContacts", "label":"Contacts"},
+    {"component":"PartyPartners", "label":"Partners"}
   ],
   "attributes": [
     {
