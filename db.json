@@ -655,16 +655,19 @@
   "lastUpdated": "2019-07-05",
   "isViewing": 0,
   "components":[
-     {"component":"CavcoProduction"},
-     {"component":"CavcoDates"},
-     {"component":"CavcoSynopsis"},
-     {"component":"CavcoApplicant"},
-     {"component":"CaseFileContacts"},
-     {"component":"CavcoChainOfTitle"},
-    {"component":"CavcoPersonnel"},
-    {"component":"CavcoFunding"},
-     {"component":"CavcoCosts"},
-    {"component":"CavcoFinancialSummary"}
+     {"component":"CavcoProduction", "label":"Production"},
+     {"component":"CavcoDates", "label":"Dates"},
+     {"component":"CavcoSynopsis", "label":"Synopsis"},
+     {"component":"CavcoApplicant", "label":"Applicant"},
+     {"component":"CaseFileContacts", "label":"Contacts"},
+     {"component":"CavcoChainOfTitle", "label":"Chain of Title"},
+    {"component":"CavcoPersonnel", "label":"Personnel"},
+    {"component":"CavcoFunding", "label":"Funding"},
+     {"component":"CavcoCosts", "label":"Costs"},
+    {"component":"CavcoFinancialSummary", "label":"Financial Summary"},
+    {"component":"CaseFileIssues", "label":"Issues"},
+    {"component":"CavcoFees", "label":"Fees"},
+    {"component":"CaseFileReports", "label":"Reports"}
    ],
       
   "attributes": [
