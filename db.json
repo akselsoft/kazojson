@@ -69,9 +69,10 @@
   "startDate": "2019-09-04"
 }
     ],
-  "authentication" : {
+  "authenticate" : {
     "person": {
       "id": 130070,
+      "firstName": "Lindsay",
       "name": "FirstName LastName",
       "initials": "UI"
     },
@@ -79,20 +80,47 @@
       {
         "id": 0,
         "englishName": "My Files",
-        "frenchName": "string",
-        "icon": "inbasket",
+        "frenchName": "Mes dossiers",
+        "icon": "list",
         "englishDescription": "Files that are currently assigned to me",
+        "frenchDescription": "Une description de la liste",
+        "component": "MyFiles"
+      },
+      {
+        "id": 0,
+        "englishName": "New Files",
+        "frenchName": "Noveau dossiers",
+        "icon": "list",
+        "englishDescription": "New Files just received",
         "frenchDescription": "string",
-        "component": "caselist"
+        "component": "MyFiles"
+      },
+      {
+        "id": 0,
+        "englishName": "Waiting on client Files",
+        "frenchName": "En attente",
+        "icon": "account",
+        "englishDescription": "Files that are waiting for client response",
+        "frenchDescription": "string",
+        "component": "MyFiles"
+      },
+      {
+        "id": 0,
+        "englishName": "Further analysis required ",
+        "frenchName": "FAR",
+        "icon": "list",
+        "englishDescription": "Files that need further review",
+        "frenchDescription": "string",
+        "component": "MyFiles"
       },
       {
         "id": 0,
         "englishName": "Program Files",
-        "frenchName": "string",
-        "icon": "inbasket",
+        "frenchName": "Dossiers du programme",
+        "icon": "list",
         "englishDescription": "Files that are currently open in the program",
         "frenchDescription": "string",
-        "component": "caselist"
+        "component": "MyFiles"
       }
     ],
     "accesslevels": [
