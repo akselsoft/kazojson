@@ -99,7 +99,7 @@
         "id": 0,
         "englishName": "Waiting on client Files",
         "frenchName": "En attente",
-        "icon": "account",
+        "icon": "person",
         "englishDescription": "Files that are waiting for client response",
         "frenchDescription": "string",
         "component": "MyFiles"
