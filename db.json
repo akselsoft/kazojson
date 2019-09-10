@@ -332,7 +332,30 @@
         ,
 
     "list":[
-        {"id":1,
+     {"id":25,
+         "header":[
+             {"fieldName":"totalfunding",
+              "english":"Total Funding",
+              "french":"Montant"
+             },
+             {"fieldName":"taxcredit",
+              "english":"Tax Credit",
+              "french":"Dossier"
+             }
+             ],
+         "content":
+         [
+             {
+                 "totalfunding":"123223",
+                 "taxcredit":"2322"
+             }
+        ],
+         "filter":
+         [
+         ]
+           
+    },
+      {"id":1,
          "header":[
              {"fieldName":"CsFileID",
               "english":"Case File ID",
