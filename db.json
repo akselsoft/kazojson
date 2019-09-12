@@ -912,6 +912,262 @@
       ]
      
 },
+  {
+  "id": 22039,
+  "number": "22039",
+  "name": "soiree le etats (v8)",
+  "officer": {
+    "id": 79013,
+    "name": "John Smith"
+  },
+  "applicant": {
+    "id": 130210,
+    "name": "Flamingo"
+  },
+  "contact": {
+    "id": 38844,
+    "name": "Judson Williams"
+  },
+  "submitter": {
+    "id": 38844,
+    "name": "Judson Williams"
+  },
+  "account": {
+    "id": 130070,
+    "name": "Organization Name"
+  },
+  "caseFileStatus": {
+    "id": 5,
+    "english": "Amended",
+    "french": "En attente"
+  },
+  "phase": {
+    "id": 72,
+    "english": "Registration Phase",
+    "french": "Inscription"
+  },
+  "phaseStatus": {
+    "id": 72,
+    "internalenglish": "Recommended ",
+    "internalfrench": "Recommande ",
+    "externalenglish": "Under review ",
+    "externalfrench": "En revue "
+  },
+  "phaseAssignedTo": {
+    "id": 79013,
+    "name": "John Smith"
+  },
+  "programid":34,
+  "startDate": "2019-07-05",
+  "lastUpdated": "2019-07-05",
+  "isViewing": 0,
+  "components":[
+     {"component":"CavcoProduction", "label":"Production"},
+     {"component":"CavcoDates", "label":"Dates"},
+     {"component":"CavcoSynopsis", "label":"Synopsis"},
+     {"component":"CavcoApplicant", "label":"Applicant"},
+     {"component":"CaseFileContacts", "label":"Contacts"},
+     {"component":"CavcoChainOfTitle", "label":"Chain of Title"},
+    {"component":"CavcoPersonnel", "label":"Personnel"},
+    {"component":"CavcoFunding", "label":"Funding"},
+     {"component":"CavcoCosts", "label":"Costs"},
+    {"component":"CavcoFinancialSummary", "label":"Financial Summary"},
+    {"component":"CaseFileIssues", "label":"Issues"},
+    {"component":"CavcoFees", "label":"Fees"},
+    {"component":"CaseFileReports", "label":"Reports"}
+   ],
+      
+  "attributes": [
+    {
+      "values": [
+        {
+          "english": "Low",
+          "id": 189,
+          "french": "Bas"
+        }
+      ],
+      "english": "Risk Level",
+      "id": 73,
+      "french": "Niveau de risque"
+    }
+  ],
+    "decisions":
+    [
+        {
+            "phase": {
+              "id": 73,
+              "english": "Analysis Phase",
+              "french": "Analyze"
+            },
+            "notes": "",
+            "endDate": "",
+            "scores": [
+              {
+                "note": "",
+                "textValue": "",
+                "criteria": {
+                  "english": "If applicable, other relevant information has been received. Please specify.",
+                  "id": 443,
+                  "french": "On a reçu, s’il y a lieu, d’autres renseignements utiles. Veuillez préciser."
+                },
+                "id": 5119360,
+                "type": {
+                  "english": "Mandatory Criteria",
+                  "id": 96,
+                  "french": "Critères obligatoires"
+                },
+                "scoreValue": {
+                  "english": "Abstain",
+                  "id": 4,
+                  "french": "Abstention"
+                }
+              }
+            ],
+            "person": {
+              "id": 130070,
+              "name": "Jane Doe"
+            },
+            "submittedOn": "2019-07-14",
+            "decisionStatus": {
+              "english": "",
+              "id": 76,
+              "french": "",
+              "status":11
+            },
+            "id": 206373,
+            "version": "1",
+            "startDate": "2019-07-14"
+          },
+           {
+            "phase": {
+              "id": 74,
+              "english": "Assessment Phase",
+              "french": "Inscription"
+            },
+            "notes": "",
+            "endDate": "",
+            "scores": [
+              {
+                "note": "",
+                "textValue": "",
+                "criteria": {
+                  "english": "If applicable, other relevant information has been received. Please specify.",
+                  "id": 443,
+                  "french": "On a reçu, s’il y a lieu, d’autres renseignements utiles. Veuillez préciser."
+                },
+                "id": 5119360,
+                "type": {
+                  "english": "Mandatory Criteria",
+                  "id": 96,
+                  "french": "Critères obligatoires"
+                },
+                "scoreValue": {
+                  "english": "Abstain",
+                  "id": 4,
+                  "french": "Abstention"
+                }
+              }
+            ],
+            "person": {
+              "id": 130070,
+              "name": "Automated"
+            },
+            "submittedOn": "2019-07-14",
+            "decisionStatus": {
+              "english": "Ready for Analysis",
+              "id": 76,
+              "french": "recommandée",
+              "status":10
+            },
+            "id": 206371,
+            "version": "1",
+            "startDate": "2019-07-14"
+          },
+          {
+          "phase": {
+            "id": 72,
+            "english": "Registration Phase",
+            "french": "Inscription"
+          },
+          "notes": "",
+          "endDate": "",
+          "scores": [
+            {
+              "note": "",
+              "textValue": "",
+              "criteria": {
+                "english": "If applicable, other relevant information has been received. Please specify.",
+                "id": 443,
+                "french": "On a reçu, s’il y a lieu, d’autres renseignements utiles. Veuillez préciser."
+              },
+              "id": 5119360,
+              "type": {
+                "english": "Mandatory Criteria",
+                "id": 96,
+                "french": "Critères obligatoires"
+              },
+              "scoreValue": {
+                "english": "Abstain",
+                "id": 4,
+                "french": "Abstention"
+              }
+            }
+          ],
+          "person": {
+            "id": 130070,
+            "name": "FirstName LastName"
+          },
+          "submittedOn": "2019-07-14",
+          "decisionStatus": {
+            "english": "Certification recommended",
+            "id": 76,
+            "french": "Certification recommandée",
+            "status":10
+          },
+          "id": 206350,
+          "version": "1",
+          "startDate": "2019-07-14"
+        }
+      ],
+      "attachments":[
+        {
+            "documentnumber": "1",
+            "notes": "notes go here",
+            "documentname": "File",
+            "documenttype": {
+              "english": "Media",
+              "id": 34424,
+              "french": "Media"
+            },
+            "location": "pchap0005",
+            "id": 2342424
+          }
+      ],
+      "assignments":[
+        {
+          "phase": {
+            "id": 73,
+            "English": "Analysis",
+            "French": "Analysis",
+            "EnglishDescription": "",
+            "FrenchDescription": "",
+            "StartDate": "20190101",
+            "EndDate": "20191231",
+            "Type": {
+              "id": 24,
+              "English": "Submission",
+              "French": "Soumission"
+            }
+          },
+          "phaseAssignedTo": {
+            "id": 130070,
+            "name": "FirstName LastName"
+          },
+          "startDate": "2017-08-08T12:49:34.673Z"
+        }
+      ]
+     
+},
      {
   "id": 16592,
   "number": "39292",
