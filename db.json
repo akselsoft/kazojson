@@ -706,19 +706,7 @@
   "lastUpdated": "2019-07-05",
   "isViewing": 0,
   "components":[
-     {"component":"CavcoProduction", "label":"Production"},
-     {"component":"CavcoDates", "label":"Dates"},
-     {"component":"CavcoSynopsis", "label":"Synopsis"},
-     {"component":"CavcoApplicant", "label":"Applicant"},
-     {"component":"CaseFileContacts", "label":"Contacts"},
-     {"component":"CavcoChainOfTitle", "label":"Chain of Title"},
-    {"component":"CavcoPersonnel", "label":"Personnel"},
-    {"component":"CavcoFunding", "label":"Funding"},
-     {"component":"CavcoCosts", "label":"Costs"},
-    {"component":"CavcoFinancialSummary", "label":"Financial Summary"},
-    {"component":"CaseFileIssues", "label":"Issues"},
-    {"component":"CavcoFees", "label":"Fees"},
-    {"component":"CaseFileReports", "label":"Reports"}
+     {"id":67,"english":"CaseFileContacts","french":"CaseFileContacts","class":null,"icon":null,"englishDescription":null,"frenchDescription":null,"component":"CaseFileContacts"},{"id":68,"english":"CaseFileActivities","french":"CaseFileActivities","class":null,"icon":null,"englishDescription":null,"frenchDescription":null,"component":"CaseFileActivities"},{"id":69,"english":"CaseFileReports","french":"CaseFileReports","class":null,"icon":null,"englishDescription":null,"frenchDescription":null,"component":"CaseFileReports"},{"id":70,"english":"CaseFileIssues","french":"CaseFileIssues","class":null,"icon":null,"englishDescription":null,"frenchDescription":null,"component":"CaseFileIssues"},{"id":71,"english":"CavcoSynopsis","french":"CavcoSynopsis","class":null,"icon":null,"englishDescription":null,"frenchDescription":null,"component":"CavcoSynopsis"},{"id":72,"english":"CavcoDates","french":"CavcoDates","class":null,"icon":null,"englishDescription":null,"frenchDescription":null,"component":"CavcoDates"},{"id":73,"english":"CavcoFees","french":"CavcoFees","class":null,"icon":null,"englishDescription":null,"frenchDescription":null,"component":"CavcoFees"},{"id":74,"english":"CavcoFunding","french":"CavcoFunding","class":null,"icon":null,"englishDescription":null,"frenchDescription":null,"component":"CavcoFunding"},{"id":75,"english":"CavcoFinancialSummary","french":"CavcoFinancialSummary","class":null,"icon":null,"englishDescription":null,"frenchDescription":null,"component":"CavcoFinancialSummary"},{"id":76,"english":"CavcoExploitation","french":"CavcoExploitation","class":null,"icon":null,"englishDescription":null,"frenchDescription":null,"component":"CavcoExploitation"},{"id":77,"english":"CavcoChainOfTitle","french":"CavcoChainOfTitle","class":null,"icon":null,"englishDescription":null,"frenchDescription":null,"component":"CavcoChainOfTitle"},{"id":78,"english":"CavcoEpisodes","french":"CavcoEpisodes","class":null,"icon":null,"englishDescription":null,"frenchDescription":null,"component":"CavcoEpisodes"},{"id":79,"english":"CavcoCosts","french":"CavcoCosts","class":null,"icon":null,"englishDescription":null,"frenchDescription":null,"component":"CavcoCosts"},{"id":80,"english":"CavcoShareholders","french":"CavcoShareholders","class":null,"icon":null,"englishDescription":null,"frenchDescription":null,"component":"CavcoShareholders"},{"id":81,"english":"CavcoPersonnel","french":"CavcoPersonnel","class":null,"icon":null,"englishDescription":null,"frenchDescription":null,"component":"CavcoPersonnel"},{"id":101,"english":"Locations","french":"Locations","class":null,"icon":null,"englishDescription":null,"frenchDescription":null,"component":"CAVCOLocations"},{"id":102,"english":"Previous Titles","french":"Previous Titles","class":null,"icon":null,"englishDescription":null,"frenchDescription":null,"component":"CAVCOPreviousTitles"},{"id":103,"english":"Points","french":"Points","class":null,"icon":null,"englishDescription":null,"frenchDescription":null,"component":"CAVCOPoints"}
    ],
       
   "attributes": [
